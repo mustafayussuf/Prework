@@ -1,0 +1,43 @@
+h1 {
+        text-align: center;
+}
+.red {
+        color: #fa0505;
+ }
+.blue  {
+        color: #0591fa;
+}
+.green {
+        color: #11ce00;
+}
+.bigText {
+        font-size: xx-large;
+}
+.tinyText {
+        font-size: xx-small;
+}
+.centerText  {
+        text-align: center;
+}
+.boldText {
+        font-weight: bold;
+}
+.fontChange {
+        font-family: cursive;
+}
+.multipleAttribute {
+        font-size: x-large;
+        color: #ffa500;
+        font-weight: bold;
+}
+.styledFont {
+        color: #11ce00;
+}
+#styledImage {
+        background-color: #0591fa;
+        width: 250px;
+        height: 250px;      
+        padding: 20px; 
+        border: solid 10px;
+        border-color: #ffa500;
+}
